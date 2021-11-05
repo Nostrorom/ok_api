@@ -1,0 +1,110 @@
+{
+    "title": {
+        "type": "String"
+    },
+    "description": {
+        "type": "String"
+    },
+    "excerpt": {
+        "type": "String"
+    },
+    "type": {
+        "type": "String"
+    },
+    "img_wp_url": {
+        "type": "String"
+    },
+    "cover_img": {
+        "type": "String"
+    },
+    "tags": {
+        "type": "String"
+    },
+    "slug": {
+        "type": "String"
+    },
+    "owner": {
+        "type": "String"
+    },
+    "web_page": {
+        "type": "String"
+    },
+    "fb_page": {
+        "type": "String"
+    },
+    "gps_pos": {
+        "type": "String"
+    },
+    "gps_lat": {
+        "type": "Number"
+    },
+    "gps_long": {
+        "type": "Number"
+    },
+    "country": {
+        "type": "String"
+    },
+    "region": {
+        "type": "String"
+    },
+    "city": {
+        "type": "String"
+    },
+    "area": {
+        "type": "String"
+    },
+    "kakai": {
+        "type": "Boolean"
+    },
+    "shop": {
+        "type": "Boolean"
+    },
+    "alcohol": {
+        "type": "Boolean"
+    },
+    "windows": {
+        "type": "Number"
+    },
+    "schedule": {
+        "type": "String"
+    },
+    "toilets": {
+        "type": "Boolean"
+    },
+    "pool": {
+        "type": "Boolean"
+    },
+    "tv": {
+        "type": "Boolean"
+    },
+    "kava_origin_country": {
+        "type": "String"
+    },
+    "kava_origin_main": {
+        "type": "String"
+    },
+    "kava_origin_alt": {
+        "type": "String"
+    },
+    "user": {
+        "type": "String"
+    },
+    "open_time": {
+        "type": "String"
+    },
+    "close_time": {
+        "type": "String"
+    },
+    "phone": {
+        "type": "String"
+    },
+    "reviews": {
+        "type": "Array"
+    },
+    "kava_variety": {
+        "type": "String"
+    },
+    "kava_type": {
+        "type": "String"
+    }
+}

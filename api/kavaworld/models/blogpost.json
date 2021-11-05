@@ -1,0 +1,35 @@
+{
+    "title": {
+        "type": "String"
+    },
+    "content": {
+        "type": "String"
+    },
+    "permalink": {
+        "type": "String"
+    },
+    "img_wp_url": {
+        "type": "String"
+    },
+    "category": {
+        "type": "String"
+    },
+    "author_id": {
+        "type": "String"
+    },
+    "author_username": {
+        "type": "String"
+    },
+    "author_email": {
+        "type": "String"
+    },
+    "author_firstname": {
+        "type": "String"
+    },
+    "author_lastname": {
+        "type": "String"
+    },
+    "slug": {
+        "type": "String"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "comment": {
+        "type": "String"
+    },
+    "kava_rating": {
+        "type": "Number"
+    },
+    "nakamal_rating": {
+        "type": "Number"
+    },
+    "nakamal": {
+        "type": "ObjectId"
+    },
+    "user": {
+        "type": "ObjectId"
+    }
+}
